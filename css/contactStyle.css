@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Montserrat:ital,wght@0,400;1,900&display=swap');
+
+body {
+   margin: 0 8%;
+   font-family: 'Merriweather', serif;
+   font-weight: 500;
+   font-size: 1rem;
+}
+.row {
+   padding: 0;
+   margin: 0;
+}
+p{
+   font-size: 1.2rem;
+   /* font-weight: 400;  */
+   font-family: 'Merriweather', serif;
+}
+small {
+   font-size: 1rem;
+   text-align: justify;
+}
+.fas, .far {
+   background-color: white;
+   color: rgb(184, 28, 47);   
+}
+.big-heading {
+   text-align: center;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: 900;
+   font-size: 3rem;
+   margin-bottom: 1em;
+   border-bottom: solid 2px  rgb(184, 28, 47);
+   
+}
+
+
+/* contact us section */
+.contact-details {
+   text-align: center;
+   margin-bottom: 5%;
+}
+
+/* form section */
+.form {
+
+} *
+ .comment-section {
+   position: absolute;
+   top: 70%;
+
+} 
+
+input{
+   padding: 3%;
+}
+label{
+   margin-top: 4%;
+}
+textarea {
+   padding: 7%;
+   margin-bottom: 1rem;
+}
+.btn {
+   width: 122%;
+   background-color: rgb(184, 28, 47);
+   margin-top: 1rem;
+}
+img {
+   width: 120%;
+   height: auto;
+   margin-top: 25%;
+}
+
+.color {
+   background-color: rgb(184, 28, 47);
+   height: 60%;
+   width: 60%; 
+   position: absolute;;
+   z-index: -1;
+   left: 70%;
+   top: 10%;
+
+}
+/* map section  */
+.google-map {
+   text-align: center;
+   margin-top: 2em;
+}
