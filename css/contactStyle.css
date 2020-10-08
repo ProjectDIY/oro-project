@@ -52,11 +52,8 @@ hr {
 } 
 input{
    padding: 2%;
-   border: solid 1px rgb(184, 28, 47);
 }
-textarea {
-   border: 1px solid  rgb(184, 28, 47);
-}
+
 label{
    font-size: 'Lato', sans-serif;;
    margin-top: 4%;
